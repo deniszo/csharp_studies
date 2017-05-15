@@ -1,0 +1,6 @@
+C:\Users\DenisZ\Desktop\reps\csharp_studies\microsoft-csharp-getting-started\GettingStartedWithCSharp\GettingStartedWithCSharp\bin\Debug\GettingStartedWithCSharp.exe.config
+C:\Users\DenisZ\Desktop\reps\csharp_studies\microsoft-csharp-getting-started\GettingStartedWithCSharp\GettingStartedWithCSharp\bin\Debug\GettingStartedWithCSharp.exe
+C:\Users\DenisZ\Desktop\reps\csharp_studies\microsoft-csharp-getting-started\GettingStartedWithCSharp\GettingStartedWithCSharp\bin\Debug\GettingStartedWithCSharp.pdb
+C:\Users\DenisZ\Desktop\reps\csharp_studies\microsoft-csharp-getting-started\GettingStartedWithCSharp\GettingStartedWithCSharp\obj\Debug\GettingStartedWithCSharp.csprojResolveAssemblyReference.cache
+C:\Users\DenisZ\Desktop\reps\csharp_studies\microsoft-csharp-getting-started\GettingStartedWithCSharp\GettingStartedWithCSharp\obj\Debug\GettingStartedWithCSharp.exe
+C:\Users\DenisZ\Desktop\reps\csharp_studies\microsoft-csharp-getting-started\GettingStartedWithCSharp\GettingStartedWithCSharp\obj\Debug\GettingStartedWithCSharp.pdb
